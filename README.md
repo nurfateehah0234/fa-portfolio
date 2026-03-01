@@ -45,7 +45,7 @@ Here is the folder structure of this app.
 
 <!--- FOLDER_STRUCTURE_START --->
 ```bash
-modern-portfolio/
+nurfateehah-portfolio/
   |- components/
     |-- Avatar.jsx
     |-- Bulb.jsx
