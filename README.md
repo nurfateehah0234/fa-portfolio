@@ -66,6 +66,7 @@ nurfateehah-portfolio/
     |-- TopLeftImg.jsx
     |-- Transition.jsx
     |-- WorkSlider.jsx
+  |- modern-portfolio-main/
   |- pages/
     |-- about/
     |-- contact/
